@@ -1,2 +1,5 @@
 # Aurapol-filament
-PLA and PETG profiles for Orca Slicer
+P1S 0.4 nozzle
+PLA 
+PETG
+PETG recycled
